@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KMBhanuka ,Mech Eng Undergraduate
-- 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...Web development 
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning Web development at Professional Level 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mbanuka513@gmail.com 
 - 😄 Pronouns: ...Bhanu
