@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KMBhanuka ,Mech Eng Undergraduate
-- 👀 Hi software enthusiast 
+- 👋 Hi, I’m @Bhanuka ,Mech Eng Undergraduate
+- 👀  software enthusiast 
 - 🌱 I’m currently learning Web development at Professional Level 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mbanuka513@gmail.com 
