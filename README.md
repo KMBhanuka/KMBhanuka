@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/your-image.png" width="400" alt="Tech Enthusiast and Mechanical Engineer">
+<p align="left"><img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/your-image.png" width="400" alt="Tech Enthusiast and Mechanical Engineer"/> </p>
 
 - 📫 How to reach me **mbanuka513@gmail.com**
 
