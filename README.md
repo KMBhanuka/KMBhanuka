@@ -4,9 +4,13 @@
 <h3 align="center">A passionate tech enthusiast| Mechanical Design Engineer |Innovator</h3>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+<p align="center">
 <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/bhanuka-kapuruge-06910923b">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+ <a style="margin-left: 10px;" target="_blank" href="https://github.com/KMBhanuka">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+ 
 <!-- GIF HEADER -->
 <img src="https://github.com/KMBhanuka/KMBhanuka/raw/main/assets/banner-header.gif">
 
