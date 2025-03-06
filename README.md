@@ -2,6 +2,11 @@
 <img src="https://github.com/KMBhanuka/KMBhanuka/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Bhanuka Kapuruge</h1>
 <h3 align="center">A passionate tech enthusiast| Mechanical Design Engineer |Innovator</h3>
+
+<a target="_blank" align="middle">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 <!-- GIF HEADER -->
 <img src="https://github.com/KMBhanuka/KMBhanuka/raw/main/assets/banner-header.gif">
 
