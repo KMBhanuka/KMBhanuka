@@ -4,14 +4,14 @@
 <h3 align="center">A passionate tech enthusiast| Mechanical Design Engineer |Innovator</h3>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-<div align="center"  class="icons-social" style="margin-left: 10px;">
+<div align="right"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/bhanuka-kapuruge-06910923b">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 <!-- GIF HEADER -->
 <img src="https://github.com/KMBhanuka/KMBhanuka/raw/main/assets/banner-header.gif">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KMBhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KMBhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="KMBhanuka(url)" /> </p>
 
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KMBhanuka&theme=dracula&column=7" alt="KMBhanuka" /></a> </p>
