@@ -16,10 +16,6 @@
 
 - 📫 How to reach me **mbanuka513@gmail.com**
 
-<!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com//bhanuka-kapuruge-06910923b/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="K M Bhanuka" height="30" width="40" /></a>
 
 </p>
 
