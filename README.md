@@ -2,15 +2,11 @@
 <img src="https://github.com/KMBhanuka/KMBhanuka/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Bhanuka Kapuruge</h1>
 <h3 align="center">A passionate tech enthusiast| Mechanical Design Engineer |Innovator</h3>
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/bhanuka-kapuruge-06910923b">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-<a target="_blank" align="middle">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/bhanuka-kapuruge-06910923b">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 <!-- GIF HEADER -->
 <img src="https://github.com/KMBhanuka/KMBhanuka/raw/main/assets/banner-header.gif">
 
